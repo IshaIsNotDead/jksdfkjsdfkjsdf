@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    /* Bakgrunnsinnstillinger for siden */
+    body {
+      text-align: left;
+      background-image: url('tua.pic');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
+    /* Stiler for knappen */
+    button {
+      padding: 20px 40px; /* Øk padding for større knapp */
+      font-size: 20px;    /* Øk tekststørrelsen */
+      background-color: #4CAF50; /* Bakgrunnsfarge */
+      color: white;      /* Tekstfarge */
+      border: none;      /* Ingen kantlinje */
+      border-radius: 10px; /* Rundede kanter */
+      cursor: pointer;   /* Markør som peker når man holder musen over */
+      transition: background-color 0.3s ease; /* Myk overgang når fargen endres */
+    }
+
+    /* Endre bakgrunnsfargen på knappen når musen er over den */
+    button:hover {
+      background-color: #45a049; /* Mørkere grønn når musen er over */
+    }
+  </style>
+</head>
+
+<body>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0DAmWHxeoKw?si=9W1lSQ_JQzIzqUKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <iframe width="560" heigh
